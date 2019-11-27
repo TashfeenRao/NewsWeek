@@ -1,62 +1,53 @@
-.my-header{
-    background-color: #f72210;
-    height: 100px;
+.my-header {
+  background-color: #f72210;
+  height: 100px;
 }
-.my-logo img{
-    width: 300px;
-    
+.my-logo img {
+  width: 300px;
 }
-.my-date p{
-    
-    color: white;
+.my-date p {
+  color: white;
 }
-.my-subcribe p{
-    padding: none !important;
-    color: white;
+.my-subcribe p {
+  padding: none !important;
+  color: white;
 }
-.subcribe-btn{
-    width: 100px;
-    height: 28px;
-    color: #f72210;
-    background-color: white;
-    font: bold 20px/20px;
-    text-transform: uppercase;
-    
+.subcribe-btn {
+  width: 100px;
+  height: 28px;
+  color: #f72210;
+  background-color: white;
+  font: bold 20px/20px;
+  text-transform: uppercase;
 }
-.search-box{
-    position: relative;
-    width: 90px;
+.search-box {
+  position: relative;
+  width: 90px;
 }
-.search-box input{
-    border: none;
-    box-shadow: none;
-    background-color: white;
+.search-box input {
+  border: none;
+  box-shadow: none;
+  background-color: white;
 }
-.fa-search{
-    position: absolute;
-    top: 25%;
-    right: 15%;
+.fa-search {
+  position: absolute;
+  top: 25%;
+  right: 15%;
 }
-.nav-mob{
-    background: #f72210;
-    width: 100%;
-    display: flex;
-    flex-wrap: nowrap;
-    
+.nav-mob {
+  background: #f72210;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
 }
-.mob-left{
-   
+.mob-logo {
+  width: 100px;
 }
-.mob-right{
-
+.opinion-box {
+  border-bottom: 1px solid rgb(221, 221, 221);
 }
-.mob-logo{
-    width: 100px;
-}
-
-@media only screen and (max-width:992px){
-
-    .my-header{
-        display: none;
-    }
+@media only screen and (max-width: 992px) {
+  .my-header {
+    display: none;
+  }
 }
