@@ -46,6 +46,60 @@
 .opinion-box {
   border-bottom: 1px solid rgb(221, 221, 221);
 }
+.top-story-box{
+    border: none;
+}
+.top-story-title{
+    cursor: pointer !important;
+}
+.top-story-title:hover{
+    color: #f72210;
+}
+.card-btn-div{
+display: flex;
+align-items: center;
+}
+.card-btn{
+margin-top: 214px;
+padding-left: 0%;
+margin-left: 0%;
+width: 120px;
+height: 35px;
+border-radius: 1px;
+background-color: rgba(255,255,255,.9);
+font-size: bolder !important;
+text-transform: uppercase;
+}
+.featured-btn-div{
+    display: flex;
+    align-items: center;
+}
+.featured-btn{
+    margin-bottom: 100px;
+    padding-left: 0%;
+    margin-left: 0%;
+    width: 100px;
+    height: 35px;
+    border-radius: 1px;
+    background-color: rgba(255,255,255,.9);
+    font-size: bolder !important;
+    text-transform: uppercase;
+}
+.card-group{
+    column-count: 2;
+}
+.jumb{
+    background-color: #e9ecef;
+    border: none;
+}
+.koko{
+    border: none;
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
 @media only screen and (max-width: 992px) {
   .my-header {
     display: none;
