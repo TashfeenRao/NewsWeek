@@ -100,6 +100,34 @@ text-transform: uppercase;
     position: sticky;
     top: 0;
   }
+  .news-icon{
+    width: 29px;
+    height: 28px;
+  }
+  .magzine-title{
+    border-bottom: 1px solid rgb(221, 221, 221);
+  }
+  .downtime{
+background-color: #f72210;
+color: white;
+
+  }
+  .magzine-btn{
+    width: 100px;
+    height: 35px;
+    border-radius: 1px;
+    background-color: rgba(255,255,255,.9);
+    color: #f72210;
+  }
+  .card{
+    border: none;
+  }
+  .card-title{
+    color: #111;
+  }
+  .card-title:hover{
+    text-decoration: underline #f72210;
+  }
 @media only screen and (max-width: 992px) {
   .my-header {
     display: none;
