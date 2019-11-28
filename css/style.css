@@ -46,88 +46,117 @@
 .opinion-box {
   border-bottom: 1px solid rgb(221, 221, 221);
 }
-.top-story-box{
-    border: none;
+.top-story-box {
+  border: none;
 }
-.top-story-title{
-    cursor: pointer !important;
+.top-story-title {
+  cursor: pointer !important;
 }
-.top-story-title:hover{
-    color: #f72210;
+.top-story-title:hover {
+  color: #f72210;
 }
-.card-btn-div{
-display: flex;
-align-items: center;
+.card-btn-div {
+  display: flex;
+  align-items: center;
 }
-.card-btn{
-margin-top: 214px;
-padding-left: 0%;
-margin-left: 0%;
-width: 120px;
-height: 35px;
-border-radius: 1px;
-background-color: rgba(255,255,255,.9);
-font-size: bolder !important;
-text-transform: uppercase;
+.card-btn {
+  margin-top: 214px;
+  padding-left: 0%;
+  margin-left: 0%;
+  width: 120px;
+  height: 35px;
+  border-radius: 1px;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-size: bolder !important;
+  text-transform: uppercase;
 }
-.featured-btn-div{
-    display: flex;
-    align-items: center;
+.featured-btn-div {
+  display: flex;
+  align-items: center;
 }
-.featured-btn{
-    margin-bottom: 100px;
-    padding-left: 0%;
-    margin-left: 0%;
-    width: 100px;
-    height: 35px;
-    border-radius: 1px;
-    background-color: rgba(255,255,255,.9);
-    font-size: bolder !important;
-    text-transform: uppercase;
+.featured-btn {
+  margin-bottom: 100px;
+  padding-left: 0%;
+  margin-left: 0%;
+  width: 100px;
+  height: 35px;
+  border-radius: 1px;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-size: bolder !important;
+  text-transform: uppercase;
 }
-.card-group{
-    column-count: 2;
+.card-group {
+  column-count: 2;
 }
-.jumb{
-    background-color: #e9ecef;
-    border: none;
+.jumb {
+  background-color: #e9ecef;
+  border: none;
 }
-.koko{
-    border: none;
+.koko {
+  border: none;
 }
 .sticky {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-  }
-  .news-icon{
-    width: 29px;
-    height: 28px;
-  }
-  .magzine-title{
-    border-bottom: 1px solid rgb(221, 221, 221);
-  }
-  .downtime{
-background-color: #f72210;
-color: white;
-
-  }
-  .magzine-btn{
-    width: 100px;
-    height: 35px;
-    border-radius: 1px;
-    background-color: rgba(255,255,255,.9);
-    color: #f72210;
-  }
-  .card{
-    border: none;
-  }
-  .card-title{
-    color: #111;
-  }
-  .card-title:hover{
-    text-decoration: underline #f72210;
-  }
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+.news-icon {
+  width: 29px;
+  height: 28px;
+}
+.magzine-title {
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+.downtime {
+  background-color: #f72210;
+  color: white;
+}
+.magzine-btn {
+  width: 100px;
+  height: 35px;
+  border-radius: 1px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #f72210;
+}
+.card {
+  border: none;
+}
+.card-title {
+  color: #111;
+}
+.card-title:hover {
+  text-decoration: underline #f72210;
+}
+.opinion-img {
+  width: 250px;
+}
+.jumb-img-box {
+  position: relative;
+  padding-bottom: 13px;
+  padding-right: 90px;
+}
+.jumb-img1 {
+  width: 170px;
+  height: 228px;
+}
+.jumb-img2 {
+  position: absolute;
+  top: 13px;
+  left: 80px;
+}
+.jumb-btn {
+  width: 130px;
+  height: 40px;
+  border-radius: 1px;
+  background-color: #f72210;
+  color: white;
+}
+.lolo {
+  height: 300px;
+}
+.text-danger {
+  color: #f72210 !important;
+}
 @media only screen and (max-width: 992px) {
   .my-header {
     display: none;
