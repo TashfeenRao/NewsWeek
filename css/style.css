@@ -220,6 +220,7 @@
   text-decoration: none;
   color: #999;
 }
+
 @media only screen and (max-width: 992px) {
   .my-header {
     display: none;
