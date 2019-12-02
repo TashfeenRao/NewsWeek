@@ -1,0 +1,222 @@
+.my-header {
+  background-color: #f72210;
+  height: 100px;
+}
+.my-logo img {
+  width: 300px;
+}
+.my-date p {
+  color: white;
+}
+.my-subcribe p {
+  padding: none !important;
+  color: white;
+}
+.subcribe-btn {
+  text-decoration: none;
+  width: 80px;
+  height: 30px;
+  border-radius: none;
+  color: #f72210 !important;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-size: bolder !important;
+  text-transform: uppercase;
+}
+.search-box {
+  position: relative;
+  width: 90px;
+}
+.search-box input {
+  border: none;
+  box-shadow: none;
+  background-color: white;
+}
+.fa-search {
+  position: absolute;
+  top: 25%;
+  right: 15%;
+}
+.nav-mob {
+  background: #f72210;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.mynavbar {
+  list-style: none;
+  color: #111;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.mynavbar li {
+  display: flex;
+  flex-grow: 1;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 24px;
+  list-style: none;
+}
+.mynavbar li a {
+  text-decoration: none;
+  color: #111;
+}
+.mynavbar li a:hover {
+  text-decoration: none;
+  color: #f72210;
+}
+.mob-logo {
+  width: 100px;
+}
+.opinion-box {
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+.top-story-box {
+  border: 1px solid #e6e6e6 !important;
+}
+.top-story-title {
+  color: #111;
+}
+.top-story-title:hover {
+  color: #f72210 !important;
+}
+.short-title {
+  color: #111;
+}
+.short-title:hover {
+  text-decoration: none;
+  color: #f72210 !important;
+}
+.card-btn-div {
+  display: flex;
+  align-items: center;
+}
+.article-box {
+  position: relative;
+}
+.card-btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 35px;
+  border-radius: 1px;
+  color: #f72210 !important;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-size: bolder !important;
+  text-transform: uppercase;
+}
+.featured-btn-div {
+  display: flex;
+  align-items: center;
+}
+.featured-btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 180px;
+  height: 35px;
+  border-radius: 1px;
+  color: #3581f4 !important;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-size: bolder !important;
+  text-transform: uppercase;
+}
+.slideicon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 70px;
+  height: 55px;
+}
+.jumb {
+  background-color: #e9ecef;
+  border: none;
+}
+.koko {
+  border: none;
+}
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+.news-icon {
+  width: 29px;
+  height: 28px;
+}
+.magzine-title {
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+.downtime {
+  background-color: #f72210;
+  color: white;
+}
+.magzine-btn {
+  width: 100px;
+  height: 35px;
+  border-radius: 1px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #f72210;
+}
+.card {
+  border: none;
+}
+.card-title {
+  color: #111;
+}
+.card-title:hover {
+  text-decoration: underline #f72210;
+}
+.opinion-img {
+  width: 250px;
+}
+.opinion-img1 {
+  width: 130px;
+}
+.opinion-img2 {
+  width: 200px;
+}
+.jumb-img-box {
+  position: relative;
+  padding-bottom: 13px;
+  padding-right: 90px;
+}
+.jumb-img1 {
+  width: 170px;
+  height: 228px;
+}
+.jumb-img2 {
+  position: absolute;
+  top: 13px;
+  left: 80px;
+}
+.jumb-btn {
+  width: 130px;
+  height: 40px;
+  border-radius: 1px;
+  background-color: #f72210;
+  color: white;
+}
+.lolo {
+  height: 300px;
+}
+.text-danger {
+  color: #f72210 !important;
+}
+.social {
+  list-style: none;
+}
+.icons {
+  font-size: 30px;
+  color: #666;
+}
+.list-part li {
+  list-style: none;
+}
+.list-part li a {
+  list-style: none;
+  text-decoration: none;
+  color: #999;
+}
