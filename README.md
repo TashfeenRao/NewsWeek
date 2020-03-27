@@ -30,7 +30,7 @@
     <a href=https://github.com/TashfeenRao/NewsWeek.git><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=https://github.com/TashfeenRao/NewsWeek.git>View Demo</a>
+    <a href=https://tashfeenrao.github.io/NewsWeek/>View Demo</a>
     .
     <a href=https://github.com/TashfeenRao/NewsWeek.git>Report Bug</a>
     .
