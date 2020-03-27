@@ -53,10 +53,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-It is an html and css base project. some Gradient styling is used for navbar.
-It is News Website.
-it is an html and css base project. some Gradient styling is used for navbar.
+This project is about cloning the Newsweek Front page design. I used bootstrap for designing this. It is fully responsive.
 
 
 ### Built With
